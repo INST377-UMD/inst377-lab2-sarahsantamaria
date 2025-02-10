@@ -1,0 +1,64 @@
+/* Background color for form */
+body {
+    background-color: #70adcc;
+    font-family: Arial, sans-serif;
+}
+
+/* Styling for form container */
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: blue;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for labels and inputs */
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+}
+
+/* Submit button styling */
+button {
+    background-color: #9366db;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+/* Submit button hover effect */
+button:hover {
+    background-color: #8d234d;
+}
+
+/* Thank you page styles */
+.thank-you-page {
+    background-color: #b875e8;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Centering the image */
+.centered-image {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+}
